@@ -4,3 +4,8 @@ test/testBuild
 
 # Node modules folder
 node_modules/
+
+# Netlify stuff
+.netlify/
+
+.DS_Store
